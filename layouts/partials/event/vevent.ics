@@ -1,6 +1,6 @@
 BEGIN:VEVENT
 SUMMARY:{{ .Title }}
-UID:{{ .File.UniqueID }}@noahpeeters.de
+UID:{{ .File.UniqueID }}@eliaspeeters.de
 DTSTAMP:{{ if (eq hugo.Environment "production") }}{{ dateFormat "20060102T150405Z" .Lastmod }}{{ else }}{{ dateFormat "20060102T150405Z" now }}{{ end }}
 {{ $allday := (eq .Params.time.allday true) -}}
 {{ if $allday -}}

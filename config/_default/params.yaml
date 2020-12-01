@@ -1,13 +1,13 @@
 logoText: Elias Peeters
 logoType: "short" # long, short
 description: "Homepage of Elias Peeters"
-custom_css: ["scss/custom.scss"]
+custom_css: ["scss/custom.css"]
 custom_js: []
 useFaviconGenerator: true # https://www.favicon-generator.org/
 meta_image: ""
 themecolor: ""
 
-themeOptions: ["light", "dark", "solarized", "kimbie"]
+themeOptions: ["light", "kimbie"]
 notAllowedTypesInHome: ["contact", "talks", "about", "projects", "publication", "presentation", "resume", "calendar"]
 notAllowedTypesInHomeSidebar: ["about", "archive", "projects", "publication", "presentation", "resume", "calendar"]
 notAllowedTypesInArchive: ["about", "contact", "talks", "projects", "publication", "presentation", "resume", "calendar"]
@@ -43,13 +43,13 @@ pubPaginate: 20
 
 # whoami
 myname: "Elias Peeters"
-email: "noah@noahpeeters.de"
-whoami: "🌱 Vegan CS Student and iOS Developer"
+email: "elias.peeters@icloud.com"
+whoami: "🖥 Worlds best developer since 2001"
 bioImageUrl: ""
 useGravatar: false
 location: "Germany, Geesthacht"
-organization: "freenet.de"
-link: "https://noahpeeters.de"
+organization: "otto.de"
+link: "https://eliaspeeters.de"
 
 # sidebar
 enableBio: true
@@ -143,21 +143,21 @@ isso:
   dataAttrs: "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 socialOptions:
-  email: "mailto:noah@noahpeeters.de"
-  phone: "tel:+4917642987761"
+  email: "mailto:elias.peeters@icloud.com"
+  phone: "tel:+491723445175"
   facebook: ""
-  twitter: "https://twitter.com/noah_peeters"
-  github: "https://github.com/NoahPeeters"
-  stack-overflow: "https://stackoverflow.com/users/10961090/noah-peeters?tab=profile"
+  twitter: "https://twitter.com/elias_peeters"
+  github: "https://github.com/EliasPeeters"
+  stack-overflow: ""
   instagram: ""
   google-plus: ""
   youtube: ""
   medium: ""
   tumblr: ""
-  linkedin: "https://www.linkedin.com/in/noahpeeters"
+  linkedin: "https://www.linkedin.com/in/elias-peeters-2014641b4"
   pinterest: ""
-  stack-exchange: "https://stackexchange.com/users/12880236/noah-peeters"
-  telegram: "https://t.me/NoahPeeters"
+  stack-exchange: ""
+  telegram: "https://t.me/EliasPeeters"
   steam: ""
   weibo: ""
   douban: ""
@@ -167,16 +167,16 @@ socialOptions:
   jianshu: ""
   zhihu: ""
   signal: ""
-  whatsapp: "https://wa.me/4917642987761"
+  whatsapp: "https://wa.me/491723445175"
   matrix: ""
   xmpp: ""
   dev-to: ""
   gitea: ""
   google-scholar: ""
-  orcid: "https://orcid.org/0000-0002-0506-923X"
-  xing: "https://www.xing.com/profile/Noah_Peeters"
-  keybase: "https://keybase.io/noahpeeters"
-  applemusic: "https://music.apple.com/profile/noahpeeters"
+  orcid: ""
+  xing: ""
+  keybase: ""
+  applemusic: ""
 
 donationOptions:
   enable: false

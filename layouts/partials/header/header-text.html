@@ -5,13 +5,15 @@
         {{ $header := . }}
         {{ if .title }}            
           {{ range .title }}
-          <div id="titlePage" class="site-header__title {{ if $header.titleShadow }}site-header__title--shadow{{ end }}" style="font-size: {{ $header.titleFontSize }}px; {{ with $header.titleColor }}color:{{ . }}{{ end }};">
+          <div id="titlePage" class="site-header__title {{ if $header.titleShadow }}site-header__title--shadow{{ end }}" style="{{ with $header.titleColor }}color:{{ . }}{{ end }};">
             {{ . }}
           </div>
 
           <style>
               #titlePage {
-                  font-family: 'asdad';
+                  color: #22223B;
+                  border: none;
+                  font-size: 50px;
               }
           </style>
           {{ end }}
