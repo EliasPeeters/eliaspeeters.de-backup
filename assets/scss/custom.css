@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --background-color:#C9ADA7;
     --box-color: #F2E9E4;
     --accent-color: #22223B;
@@ -16,3 +16,15 @@
 h2 {
     color: var(--accent-color) !important;
 }
+
+.taxo-root {
+    background-color: var(--box-color) !important;
+}
+
+.search-result {
+    background-color: var(--box-color) !important;
+}
+
+.navbar {
+    background-color: var(--box-color) !important;
+} */

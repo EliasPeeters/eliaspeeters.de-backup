@@ -1,7 +1,7 @@
 main:
-  - identifier: "cv"
-    name: "CV"
-    url: "cv"
+  - identifier: "resume"
+    name: "Resume"
+    url: "resume"
     weight: 1
 
   - identifier: "posts"
@@ -9,20 +9,3 @@ main:
     url: "posts"
     weight: 2
 
-  - parent: "posts"
-    name: "Archive"
-    url: "archive"
-
-  - parent: "posts"
-    name: "Apple Silicon"
-    url: "tags/apple-silicon"
-
-  - identifier: "projects"
-    name: "Projects"
-    url: "projects"
-    weight: 3
-
-  - identifier: "publication"
-    name: "Pub"
-    url: "publication"
-    weight: 4

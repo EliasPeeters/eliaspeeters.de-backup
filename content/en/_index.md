@@ -22,7 +22,7 @@ header:
 
 Hello there :wave: My name is Noah Peeters and I created this website because I had the domain and I thought it might be funny to have one. You can find the source code on my GitHub account in case you're interested in it:
 
-[![GitHub repository card](https://github-readme-stats.vercel.app/api/pin/?username=EliasPeeters&repo=eliaspeeters.de)](https://github.com/NoahPeeters/noahpeeters.de)
+[![GitHub repository card](https://github-readme-stats.vercel.app/api/pin/?username=EliasPeeters&repo=eliaspeeters.de)](https://github.com/EliasPeeters/eliaspeeters.de)
 
 I'll try to maintain a single point of contact for my digital life here. If you want to contact me (anonymously), feel free to use my [contact form](/contact) or one of the many platforms I use. You can find them on the left or in the *Follow* menu on mobile devices.
 

@@ -7,7 +7,7 @@ useFaviconGenerator: true # https://www.favicon-generator.org/
 meta_image: ""
 themecolor: ""
 
-themeOptions: ["light", "kimbie"]
+themeOptions: ["light", "kimbie", "blood"]
 notAllowedTypesInHome: ["contact", "talks", "about", "projects", "publication", "presentation", "resume", "calendar"]
 notAllowedTypesInHomeSidebar: ["about", "archive", "projects", "publication", "presentation", "resume", "calendar"]
 notAllowedTypesInArchive: ["about", "contact", "talks", "projects", "publication", "presentation", "resume", "calendar"]
@@ -75,7 +75,7 @@ showPoweredBy: true
 showFeedLinks: true
 showSocialLinks: true
 enableLangChange: false
-enableThemeChange: false
+enableThemeChange: true
 
 # service
 googleTagManager: "" # GTM-XXXXXX
